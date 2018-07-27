@@ -1,4 +1,4 @@
-#HTML 이론파트
+##HTML 이론파트
 ## HTML 이란 Hypertext Markup Language
 ### 문서와 문서가 링크로 연결되어 거대한 정보로 만든것이 WEB 이다.
 #### HTML 문법은 <></> 으로 이루어져 있어 열었으면 언젠가는 닫아 줘야한다
