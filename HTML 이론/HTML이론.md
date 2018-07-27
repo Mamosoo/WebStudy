@@ -2,7 +2,7 @@
 ## HTML 이란 Hypertext Markup Language
 ### 문서와 문서가 링크로 연결되어 거대한 정보로 만든것이 WEB 이다.
 #### HTML 문법은 <></> 으로 이루어져 있어 열었으면 언젠가는 닫아 줘야한다
-#### <!DOCTYPE html> 로 선언한다
+#### !DOCTYPE html 로 선언한다
 
 #### 오늘배운태그 1. a => 링크를 걸어줄때 사용 
 #### 오늘배운태그 2. li => list 태그 
