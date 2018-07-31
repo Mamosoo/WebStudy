@@ -9,7 +9,7 @@
             document.write("10"+"10");
             </script>
 
-    <h2>php</h2>
+    <h1>php</h1>
     <?php
         echo "10"."10";
         ?>      
